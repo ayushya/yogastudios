@@ -1,0 +1,66 @@
+body{
+	background: #80BA5D;
+}
+#logo{
+	margin-top: 150px;
+
+}
+#logo h1{
+	font-size:100px;
+}
+.search{
+	margin-top: 100px;
+}
+*{
+	color:white;
+}
+#eachunit{
+	/*background: grey;*/
+	/*margin: 5px;*/
+
+}
+.pricebtn{
+	/*margin:10px!important;*/
+}
+/*.stitle{
+	text-align:center;
+}*/
+.rborder
+{
+	border-right: 2px;
+}
+.rspace
+{
+	padding-bottom: 10px;
+}
+table.tablesorter thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #B1DF95;
+color: #1C4A00;
+}
+table.tablesorter thead{
+	background-color: #1C4A00;
+}
+table.tablesorter tbody{
+	background-color: #356F13;
+}
+
+select option{
+	background-color: #1C4A00;
+	line-height: 40px!important;
+}
